@@ -1,0 +1,1 @@
+# secador_solar

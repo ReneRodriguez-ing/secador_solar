@@ -1,0 +1,6 @@
+# Requirements for the user interface and simulation
+flask
+PyQt5
+streamlit
+matplotlib
+numpy
